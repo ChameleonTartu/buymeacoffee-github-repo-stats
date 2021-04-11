@@ -17,6 +17,10 @@ jobs:
           repository: ChameleonTartu/railway-oriented-programming-presentation
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j2:
+    name: master
+    runs-on: ubuntu-latest
+    steps:
       - name: notifications-api
         uses: jgehrcke/github-repo-stats@HEAD
         with:
