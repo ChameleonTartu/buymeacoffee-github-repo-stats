@@ -16,3 +16,4 @@ jobs:
         with:
           repository: ChameleonTartu/railway-oriented-programming-presentation
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
