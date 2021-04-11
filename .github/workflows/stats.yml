@@ -8,7 +8,7 @@ on:
 
 jobs:
   j1:
-    name: master
+    name: railway-oriented-programming-presentation
     runs-on: ubuntu-latest
     steps:
       - name: railway-oriented-programming-presentation
@@ -18,7 +18,7 @@ jobs:
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j2:
-    name: master
+    name: notifications-api
     runs-on: ubuntu-latest
     steps:
       - name: notifications-api
@@ -27,204 +27,320 @@ jobs:
           repository: ChameleonTartu/notifications-api
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j3:
+    name: localhost-tunnels-demo
+    runs-on: ubuntu-latest
+    steps:
       - name: localhost-tunnels-demo
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/localhost-tunnels-demo
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j4:
+    name: amazon-mws-feeds-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-feeds-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-feeds-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j5:
+    name: amazon-mws-recommendations-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-recommendations-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-recommendations-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j6:
+    name: amazon-mws-subscriptions-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-subscriptions-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-subscriptions-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j7:
+    name: amazon-mws-reports-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-reports-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-reports-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j8:
+    name: chess-players-network-represented-as-graph
+    runs-on: ubuntu-latest
+    steps:
       - name: chess-players-network-represented-as-graph
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/chess-players-network-represented-as-graph
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j9:
+    name: amazon-mws-fulfillment-inventory-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-fulfillment-inventory-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-fulfillment-inventory-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j10:
+    name: so-answers
+    runs-on: ubuntu-latest
+    steps:
       - name: so-answers
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/so-answers
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j11:
+    name: comparison-different-jdk-vendors
+    runs-on: ubuntu-latest
+    steps:
       - name: comparison-different-jdk-vendors
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/comparison-different-jdk-vendors
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j12:
+    name: amazon-mws-finances-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-finances-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-finances-maven
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
-      - name: amazon-mws-finances-maven
-        uses: jgehrcke/github-repo-stats@HEAD
-        with:
-          repository: ChameleonTartu/amazon-mws-finances-maven
-          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
-          databranch: master
-      - name: amazon-mws-finances-maven
-        uses: jgehrcke/github-repo-stats@HEAD
-        with:
-          repository: ChameleonTartu/amazon-mws-finances-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
-          databranch: master
+  j13:
+    name: amazon-mws-orders-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-orders-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-orders-maven
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j14:
+    name: amazon-mws-fulfillment-inbound-shipment-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-fulfillment-inbound-shipment-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j15:
+    name: amazon-mws-easyship-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-easyship-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-easyship-maven
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j16:
+    name: amazon-mws-merchant-fulfillment-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-merchant-fulfillment-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-merchant-fulfillment-maven
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j17:
+    name: amazon-mws-docs
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-docs
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-docs
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j18:
+    name: calculator
+    runs-on: ubuntu-latest
+    steps:
       - name: calculator
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/calculator
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j19:
+    name: eDeclarationSearcher
+    runs-on: ubuntu-latest
+    steps:
       - name: eDeclarationSearcher
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/eDeclarationSearcher
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j20:
+    name: amazon-mws-fulfillment-outbound-shipment-maven
+    runs-on: ubuntu-latest
+    steps:
       - name: amazon-mws-fulfillment-outbound-shipment-maven
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j21:
+    name: neurotolge
+    runs-on: ubuntu-latest
+    steps:
       - name: neurotolge
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/neurotolge
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j22:
+    name: eco-to-sqlite
+    runs-on: ubuntu-latest
+    steps:
       - name: eco-to-sqlite
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/eco-to-sqlite
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j23:
+    name: NorwegianLoanCalculator
+    runs-on: ubuntu-latest
+    steps:
       - name: NorwegianLoanCalculator
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/NorwegianLoanCalculator
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j24:
+    name: toy-stores-crawlers
+    runs-on: ubuntu-latest
+    steps:
       - name: toy-stores-crawlers
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/toy-stores-crawlers
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j25:
+    name: ConformanceChecker
+    runs-on: ubuntu-latest
+    steps:
       - name: ConformanceChecker
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/ConformanceChecker
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j26:
+    name: audio-files-to-pomodoro-counts
+    runs-on: ubuntu-latest
+    steps:
       - name: audio-files-to-pomodoro-counts
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/audio-files-to-pomodoro-counts
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j27:
+    name: oslo-bicycle-historical
+    runs-on: ubuntu-latest
+    steps:
       - name: oslo-bicycle-historical
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/oslo-bicycle-historical
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j28:
+    name: RubyWarrior
+    runs-on: ubuntu-latest
+    steps:
       - name: RubyWarrior
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/RubyWarrior
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j29:
+    name: ripe-and-arin-email-and-org-finder
+    runs-on: ubuntu-latest
+    steps:
       - name: ripe-and-arin-email-and-org-finder
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/ripe-and-arin-email-and-org-finder
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j30:
+    name: competitive_programming
+    runs-on: ubuntu-latest
+    steps:
       - name: competitive_programming
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/competitive_programming
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j31:
+    name: agile-exam-preparation
+    runs-on: ubuntu-latest
+    steps:
       - name: agile-exam-preparation
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/agile-exam-preparation
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j32:
+    name: RandomSnippets
+    runs-on: ubuntu-latest
+    steps:
       - name: RandomSnippets
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/RandomSnippets
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j33:
+    name: MboxFiltering
+    runs-on: ubuntu-latest
+    steps:
       - name: MboxFiltering
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/MboxFiltering
           ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
+  j34:
+    name: itt8060
+    runs-on: ubuntu-latest
+    steps:
       - name: itt8060
         uses: jgehrcke/github-repo-stats@HEAD
         with:
