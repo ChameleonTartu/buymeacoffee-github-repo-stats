@@ -8,7 +8,7 @@ on:
 
 jobs:
   j1:
-    name: github-repo-stats
+    name: master
     runs-on: ubuntu-latest
     steps:
       - name: railway-oriented-programming-presentation
@@ -16,4 +16,214 @@ jobs:
         with:
           repository: ChameleonTartu/railway-oriented-programming-presentation
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: notifications-api
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/notifications-api
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: localhost-tunnels-demo
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/localhost-tunnels-demo
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-feeds-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-feeds-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-recommendations-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-recommendations-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-subscriptions-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-subscriptions-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-reports-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-reports-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: chess-players-network-represented-as-graph
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/chess-players-network-represented-as-graph
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-fulfillment-inventory-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-fulfillment-inventory-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: so-answers
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/so-answers
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: comparison-different-jdk-vendors
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/comparison-different-jdk-vendors
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-finances-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-finances-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-finances-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-finances-maven
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+      - name: amazon-mws-finances-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-finances-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-orders-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-orders-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-fulfillment-inbound-shipment-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-easyship-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-easyship-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-merchant-fulfillment-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-merchant-fulfillment-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-docs
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-docs
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: calculator
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/calculator
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: eDeclarationSearcher
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/eDeclarationSearcher
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: amazon-mws-fulfillment-outbound-shipment-maven
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: neurotolge
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/neurotolge
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: eco-to-sqlite
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/eco-to-sqlite
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: NorwegianLoanCalculator
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/NorwegianLoanCalculator
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: toy-stores-crawlers
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/toy-stores-crawlers
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: ConformanceChecker
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/ConformanceChecker
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: audio-files-to-pomodoro-counts
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/audio-files-to-pomodoro-counts
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: oslo-bicycle-historical
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/oslo-bicycle-historical
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: RubyWarrior
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/RubyWarrior
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: ripe-and-arin-email-and-org-finder
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/ripe-and-arin-email-and-org-finder
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: competitive_programming
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/competitive_programming
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: agile-exam-preparation
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/agile-exam-preparation
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: RandomSnippets
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/RandomSnippets
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: MboxFiltering
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/MboxFiltering
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          databranch: master
+      - name: itt8060
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/itt8060
+          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
           databranch: master
