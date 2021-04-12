@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/ChameleonTartu/amazon-mws-reports-maven,4,2
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/.github/workflows/deploy.yml,3,3
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebServiceClient.java,1,1
