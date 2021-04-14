@@ -135,7 +135,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-orders-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j14:
     name: amazon-mws-fulfillment-inbound-shipment-maven
@@ -145,7 +145,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j15:
     name: amazon-mws-easyship-maven
@@ -155,7 +155,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-easyship-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j16:
     name: amazon-mws-merchant-fulfillment-maven
@@ -165,7 +165,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-merchant-fulfillment-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j17:
     name: amazon-mws-docs
@@ -175,7 +175,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-docs
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j18:
     name: calculator
@@ -185,7 +185,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/calculator
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j19:
     name: eDeclarationSearcher
@@ -195,7 +195,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/eDeclarationSearcher
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j20:
     name: amazon-mws-fulfillment-outbound-shipment-maven
@@ -205,7 +205,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j21:
     name: neurotolge
@@ -215,7 +215,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/neurotolge
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j22:
     name: eco-to-sqlite
@@ -225,7 +225,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/eco-to-sqlite
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j23:
     name: NorwegianLoanCalculator
@@ -235,7 +235,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/NorwegianLoanCalculator
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j24:
     name: toy-stores-crawlers
@@ -245,7 +245,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/toy-stores-crawlers
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j25:
     name: ConformanceChecker
@@ -255,7 +255,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/ConformanceChecker
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j26:
     name: audio-files-to-pomodoro-counts
@@ -265,7 +265,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/audio-files-to-pomodoro-counts
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j27:
     name: oslo-bicycle-historical
@@ -275,7 +275,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/oslo-bicycle-historical
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j28:
     name: RubyWarrior
@@ -285,7 +285,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/RubyWarrior
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j29:
     name: ripe-and-arin-email-and-org-finder
@@ -295,7 +295,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/ripe-and-arin-email-and-org-finder
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j30:
     name: competitive_programming
@@ -305,7 +305,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/competitive_programming
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j31:
     name: agile-exam-preparation
@@ -315,7 +315,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/agile-exam-preparation
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j32:
     name: RandomSnippets
@@ -325,7 +325,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/RandomSnippets
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j33:
     name: MboxFiltering
@@ -335,7 +335,7 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/MboxFiltering
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j34:
     name: itt8060
@@ -345,5 +345,5 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/itt8060
-          ghtoken: ${ secrets.ACCESS_GITHUB_API_TOKEN }
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
