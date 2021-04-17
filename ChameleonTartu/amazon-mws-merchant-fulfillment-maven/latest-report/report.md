@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/amazon-mws-merchant-fulfillment-maven
-% Generated for [ChameleonTartu/amazon-mws-merchant-fulfillment-maven](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-04-17 23:06 UTC.
+% Generated for [ChameleonTartu/amazon-mws-merchant-fulfillment-maven](https://github.com/ChameleonTartu/amazon-mws-merchant-fulfillment-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-04-17 23:18 UTC.
 
 
 ## Views
