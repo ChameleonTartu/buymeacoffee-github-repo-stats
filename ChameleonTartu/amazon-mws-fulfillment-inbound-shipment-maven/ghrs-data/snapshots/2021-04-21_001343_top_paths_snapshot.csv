@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven,6,2
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/tree/master/src,4,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/tree/master/src/main/java/com/amazonaws/mws/fulfillmentinboundshipment,3,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/pom.xml,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/README.md,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/src/main/java/com/amazonaws/mws/fulfillmentinboundshipment/FBAInboundServiceMWSException.java,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/src/main/java/com/amazonaws/mws/fulfillmentinboundshipment/FBAInboundServiceMWS.java,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/src/main/java/com/amazonaws/mws/fulfillmentinboundshipment/MWSEndpoint.java,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/src/test/java/com/amazonaws/mws/fulfillmentinboundshipment/samples/ConfirmTransportRequestSample.java,1,1
+/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven/blob/master/src/test/java/com/amazonaws/mws/fulfillmentinboundshipment/samples/PutTransportContentSample.java,1,1
