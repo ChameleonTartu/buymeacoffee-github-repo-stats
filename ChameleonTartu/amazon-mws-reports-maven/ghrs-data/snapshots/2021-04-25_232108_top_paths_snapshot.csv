@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/amazon-mws-reports-maven,7,6
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/.github/workflows/deploy.yml,4,4
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/pom.xml,3,3
+/ChameleonTartu/amazon-mws-reports-maven/tree/master/src,2,2
+/ChameleonTartu/amazon-mws-reports-maven/tree/master/src/main/java/com/amazonaws/mws,2,2
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebServiceClient.java,1,1
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebService.java,1,1
+/ChameleonTartu/amazon-mws-reports-maven/blob/master/src/test/java/com/amazonaws/mws/samples/CancelReportRequestsSample.java,1,1
+/ChameleonTartu/amazon-mws-reports-maven/tree/master/src/main/java/com/amazonaws/mws/model,1,1
+/ChameleonTartu/amazon-mws-reports-maven/tree/master/src/test,1,1
