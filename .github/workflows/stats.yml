@@ -347,3 +347,13 @@ jobs:
           repository: ChameleonTartu/itt8060
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j35:
+    name: gb-demo-bot
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/gb-demo-bot
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
