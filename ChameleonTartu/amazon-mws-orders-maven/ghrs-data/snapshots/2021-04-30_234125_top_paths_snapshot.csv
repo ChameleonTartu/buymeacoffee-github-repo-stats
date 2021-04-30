@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/amazon-mws-orders-maven,10,3
+/ChameleonTartu/amazon-mws-orders-maven/blob/master/src/test/java/com/amazonaws/mws/orders/samples/ListOrdersSample.java,6,1
+/ChameleonTartu/amazon-mws-orders-maven/blob/f155c4b6a325ce52b100927909466933894bd6e8/src/test/java/com/amazonaws/mws/orders/samples/MarketplaceWebServiceOrdersSampleConfig.java,5,1
+/ChameleonTartu/amazon-mws-orders-maven/tree/master/src/test/java/com/amazonaws/mws/orders/samples,3,1
+/ChameleonTartu/amazon-mws-orders-maven/blob/f155c4b6a325ce52b100927909466933894bd6e8/src/main/java/com/amazonaws/mws/orders/MarketplaceWebServiceOrdersConfig.java,2,1
+/ChameleonTartu/amazon-mws-orders-maven/tree/master/src,2,1
+/ChameleonTartu/amazon-mws-orders-maven/tree/master/src/test,2,1
+/ChameleonTartu/amazon-mws-orders-maven/tree/master/src/test/java/com/amazonaws/mws/orders,2,1
+/ChameleonTartu/amazon-mws-orders-maven/blob/f155c4b6a325ce52b100927909466933894bd6e8/src/main/java/com/amazonaws/mws/orders/MarketplaceWebServiceOrdersAsyncClient.java,1,1
+/ChameleonTartu/amazon-mws-orders-maven/blob/master/src/test/java/com/amazonaws/mws/orders/samples/GetOrderSample.java,1,1
