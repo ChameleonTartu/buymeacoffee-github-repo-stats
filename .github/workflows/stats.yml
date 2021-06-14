@@ -367,3 +367,33 @@ jobs:
           repository: greenbird/piri-web
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j37:
+    name: piri-cli
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: greenbird/piri-cli
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+  j38:
+    name: piri
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: greenbird/piri
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
+  j39:
+    name: storage-bucket
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: thomasborgen/storage-bucket
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
