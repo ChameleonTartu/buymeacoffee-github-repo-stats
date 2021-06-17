@@ -398,7 +398,7 @@ jobs:
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
   j40:
-    name: storage-bucket
+    name: p360-contact-manager
     runs-on: ubuntu-latest
     steps:
       - name: gb-demo-bot
