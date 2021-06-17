@@ -397,3 +397,13 @@ jobs:
           repository: thomasborgen/storage-bucket
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j40:
+    name: storage-bucket
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: greenbird/p360-contact-manager
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
