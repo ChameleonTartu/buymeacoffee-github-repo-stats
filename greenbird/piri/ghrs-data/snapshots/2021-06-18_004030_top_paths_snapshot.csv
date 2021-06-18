@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,27,16
+/greenbird/piri/pulls,2,2
+/greenbird/piri/stargazers,2,2
+/greenbird/piri/blob/master/piri/collection_handlers.py,1,1
+/greenbird/piri/blob/master/tests/casting/test_cast_to_integer.py,1,1
+/greenbird/piri/blob/master/tests/test_nested_iterables.py,1,1
+/greenbird/piri/graphs/traffic,1,1
+/greenbird/piri/issues,1,1
+/greenbird/piri/issues/8,1,1
+/greenbird/piri/pulse,1,1
