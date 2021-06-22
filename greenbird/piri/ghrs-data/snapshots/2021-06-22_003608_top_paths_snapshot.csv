@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,41,21
+/greenbird/piri/pulls,11,5
+/greenbird/piri/issues,10,4
+/greenbird/piri/issues/135,10,3
+/greenbird/piri/tree/master/piri,4,3
+/greenbird/piri/blob/master/piri/casting.py,1,1
+/greenbird/piri/blob/master/piri/collection_handlers.py,1,1
+/greenbird/piri/graphs/traffic,1,1
+/greenbird/piri/issues/new,1,1
+/greenbird/piri/network/members,1,1
