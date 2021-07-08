@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/greenbird/piri-cli,9,6
+/greenbird/piri-cli/tree/master/tests,3,1
+/greenbird/piri-cli/tree/master/tests/files,2,1
+/greenbird/piri-cli/blob/master/tests/files/bad_config.json,1,1
+/greenbird/piri-cli/blob/master/tests/test_piri_cli.py,1,1
