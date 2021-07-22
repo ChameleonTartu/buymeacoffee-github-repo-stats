@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri-cli,25,12
+/greenbird/piri-cli/blob/master/poetry.lock,2,1
+/greenbird/piri-cli/blob/master/pyproject.toml,1,1
+/greenbird/piri-cli/blob/master/setup.cfg,1,1
+/greenbird/piri-cli/issues,1,1
+/greenbird/piri-cli/tags,1,1
+/greenbird/piri-cli/tree/feature/bump-piri-version-to-1.1,1,1
+/greenbird/piri-cli/tree/master,1,1
+/greenbird/piri-cli/tree/master/.github,1,1
+/greenbird/piri-cli/tree/master/.github/workflows,1,1
