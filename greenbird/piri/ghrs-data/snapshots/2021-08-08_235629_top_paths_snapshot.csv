@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,29,20
+/greenbird/piri/issues,17,5
+/greenbird/piri/issues/137,12,4
+/greenbird/piri/issues/138,4,2
+/greenbird/piri/pulls,2,2
+/greenbird/piri/actions,1,1
+/greenbird/piri/blob/master/docs/stylesheets/swagger-ui.css,1,1
+/greenbird/piri/blob/master/piri/casting.py,1,1
+/greenbird/piri/blob/master/piri/collection_handlers.py,1,1
+/greenbird/piri/blob/master/piri/common.py,1,1
