@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri-web
-% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-16 23:33 UTC.
+% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-16 23:44 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `greenbird.github.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/blob/master/piri_web/app.py`, 04: `/tree/master/docs`, 05: `/blob/master/docs/index.md`, 06: `/blob/master/docs/changelog.md`, 07: `/issues`, 08: `/blob/master/README.md`, 09: `/blob/master/piri_web/__init__.py`, 10: `/blob/master/LICENSE`, 11: `/pulse`, 12: `/blob/master/pyproject.toml`, 13: `/commit/082ec11cab598f0803f5d5ac05fa68eecaffe712`, 14: `/blob/master/tests/config.json`, 15: `/projects`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/blob/master/piri_web/app.py`, 04: `/tree/master/docs`, 05: `/blob/master/docs/index.md`, 06: `/blob/master/docs/changelog.md`, 07: `/issues`, 08: `/blob/master/README.md`, 09: `/blob/master/piri_web/__init__.py`, 10: `/blob/master/LICENSE`, 11: `/stargazers`, 12: `/blob/master/docs/contributing.md`, 13: `/commit/8cd0014de57f163f03841da5f4d8da13f22a8a2c`, 14: `/graphs/traffic`, 15: `/blob/master/requirements.txt`
 
 
 <script type="text/javascript">
