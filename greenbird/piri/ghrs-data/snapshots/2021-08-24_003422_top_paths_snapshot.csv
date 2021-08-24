@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,42,28
+/greenbird/piri/issues,5,4
+/greenbird/piri/pulls,4,4
+/greenbird/piri/tree/master/piri,4,4
+/greenbird/piri/issues/138,2,1
+/greenbird/piri/blob/master/piri/casting.py,1,1
+/greenbird/piri/blob/master/piri/iso.py,1,1
+/greenbird/piri/blob/master/piri/mapper.py,1,1
+/greenbird/piri/blob/master/piri/schema.py,1,1
+/greenbird/piri/blob/master/pyproject.toml,1,1
