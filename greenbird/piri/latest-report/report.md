@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-24 23:36 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-24 23:46 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/issues/113`, 07: `/tags`, 08: `/issues/136`, 09: `/blob/master/LICENSE`, 10: `/issues/135`, 11: `/blob/master/piri/schema.json`, 12: `/stargazers`, 13: `/blob/master/docs/usage.md`, 14: `/tree/master/docs`, 15: `/issues/138`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/issues/113`, 07: `/tags`, 08: `/issues/136`, 09: `/blob/master/LICENSE`, 10: `/issues/135`, 11: `/blob/master/piri/functions.py`, 12: `/commits/master`, 13: `/blob/master/docs/usage.md`, 14: `/issues/138`, 15: `/issues/68`
 
 
 <script type="text/javascript">
