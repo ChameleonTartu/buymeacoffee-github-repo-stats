@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/calculator,8,1
+/ChameleonTartu/calculator/tree/main/src/main/kotlin/ua/bank/accounts/calculator,8,1
+/ChameleonTartu/calculator/tree/main/src,7,1
+/ChameleonTartu/calculator/tree/main/src/main,7,1
+/ChameleonTartu/calculator/blob/main/src/main/kotlin/ua/bank/accounts/calculator/CalculatorApplication.kt,4,1
+/ChameleonTartu/calculator/blob/main/src/main/kotlin/ua/bank/accounts/calculator/controller/AccountController.kt,4,1
+/ChameleonTartu/calculator/tree/main/src/main/kotlin/ua/bank/accounts/calculator/controller,4,1
+/ChameleonTartu/calculator/tree/main/src/main/resources,3,1
+/ChameleonTartu/calculator/tree/main/src/test,3,1
+/ChameleonTartu/calculator/blob/main/src/test/kotlin/ua/bank/accounts/calculator/controller/ReceivePersonalApiTokenTest.kt,2,1
