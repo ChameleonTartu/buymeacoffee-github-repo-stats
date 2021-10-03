@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/greenbird/piri-web,31,16
+/greenbird/piri-web/blob/master/piri_web/app.py,2,2
+/greenbird/piri-web/issues,2,2
+/greenbird/piri-web/tree/master/piri_web,2,2
+/greenbird/piri-web/tree/master/tests,2,1
+/greenbird/piri-web/blob/master/tests/config.json,1,1
+/greenbird/piri-web/blob/master/tests/conftest.py,1,1
+/greenbird/piri-web/tree/master/docs,1,1
