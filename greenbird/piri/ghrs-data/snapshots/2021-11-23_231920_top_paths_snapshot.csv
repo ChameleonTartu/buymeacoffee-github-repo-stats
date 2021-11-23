@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,50,20
+/greenbird/piri/tree/master/piri,13,6
+/greenbird/piri/blob/de8ed240492d836305c94decbede3933ea982db0/piri/mapper.py,7,1
+/greenbird/piri/tree/master/docs,6,4
+/greenbird/piri/blob/master/piri/mapper.py,6,3
+/greenbird/piri/blob/master/piri/process.py,5,1
+/greenbird/piri/tree/master/tests,4,3
+/greenbird/piri/issues,3,3
+/greenbird/piri/search,3,2
+/greenbird/piri/blob/de8ed240492d836305c94decbede3933ea982db0/piri/handlers.py,3,1
