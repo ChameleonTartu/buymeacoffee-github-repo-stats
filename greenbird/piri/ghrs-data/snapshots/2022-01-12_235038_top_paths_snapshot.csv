@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,17,12
+/greenbird/piri/tree/master/piri,3,3
+/greenbird/piri/issues,2,2
+/greenbird/piri/releases,2,1
+/greenbird/piri/blob/master/piri/constants.py,1,1
+/greenbird/piri/blob/master/piri/functions.py,1,1
+/greenbird/piri/blob/master/piri/schema.py,1,1
+/greenbird/piri/blob/master/pyproject.toml,1,1
+/greenbird/piri/blob/master/README.md,1,1
+/greenbird/piri/commit/de8ed240492d836305c94decbede3933ea982db0,1,1
