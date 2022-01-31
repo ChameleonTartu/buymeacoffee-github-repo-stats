@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,32,20
+/greenbird/piri/tree/master/docs,4,2
+/greenbird/piri/tree/master/piri,3,2
+/greenbird/piri/blob/master/docs/index.md,2,2
+/greenbird/piri/blob/master/docs/configuration.md,1,1
+/greenbird/piri/blob/master/.editorconfig,1,1
+/greenbird/piri/blob/master/piri/schema.json,1,1
+/greenbird/piri/find/master,1,1
+/greenbird/piri/issues,1,1
+/greenbird/piri/pulls,1,1
