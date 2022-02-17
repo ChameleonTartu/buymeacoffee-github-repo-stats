@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/chess-players-network-represented-as-graph/tree/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network,2,1
+/ChameleonTartu/chess-players-network-represented-as-graph/tree/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/config,2,1
+/ChameleonTartu/chess-players-network-represented-as-graph/tree/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/entity/chess,2,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/config/ChessComConfig.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/config/ChessComUrlBuilderConfig.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/entity/chess/Game.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/entity/chess/Player.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/repository/GameRepository.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/blob/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/service/PlayerService.kt,1,1
+/ChameleonTartu/chess-players-network-represented-as-graph/tree/64b1ccc0b508d33baab741609a9a6044bbe7a61b/network/src/main/kotlin/com/greenbird/chess/network/entity,1,1
