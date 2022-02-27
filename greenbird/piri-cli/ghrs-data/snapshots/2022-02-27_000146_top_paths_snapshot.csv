@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri-cli,9,7
+/greenbird/piri-cli/blob/master/tests/test_piri_cli.py,2,1
+/greenbird/piri-cli/tree/master/tests,2,1
+/greenbird/piri-cli/tree/master/tests/files,2,1
+/greenbird/piri-cli/blob/master/input.json,1,1
+/greenbird/piri-cli/blob/master/piri_cli/cli.py,1,1
+/greenbird/piri-cli/blob/master/tests/files/bad_config.json,1,1
+/greenbird/piri-cli/blob/master/tests/files/good_config.json,1,1
+/greenbird/piri-cli/blob/master/tests/files/input.json,1,1
+/greenbird/piri-cli/blob/master/tests/__init__.py,1,1
