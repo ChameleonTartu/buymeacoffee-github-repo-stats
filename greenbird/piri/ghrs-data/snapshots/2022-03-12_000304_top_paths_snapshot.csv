@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,33,21
+/greenbird/piri/issues,17,6
+/greenbird/piri/tree/master/piri,7,3
+/greenbird/piri/tree/master/tests,3,2
+/greenbird/piri/issues/113,3,1
+/greenbird/piri/blob/master/piri/schema.json,2,2
+/greenbird/piri/blob/master/tests/test_mapper.py,2,2
+/greenbird/piri/pulls,2,1
+/greenbird/piri/blob/master/piri/functions.py,1,1
+/greenbird/piri/blob/master/piri/mapper.py,1,1
