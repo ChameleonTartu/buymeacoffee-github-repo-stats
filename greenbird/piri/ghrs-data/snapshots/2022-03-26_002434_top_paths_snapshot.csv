@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,40,27
+/greenbird/piri/tree/master/piri,9,6
+/greenbird/piri/blob/master/piri/process.py,4,2
+/greenbird/piri/blob/master/docs/usecases/usecases.md,3,1
+/greenbird/piri/blob/master/docs/index.md,2,1
+/greenbird/piri/blob/master/piri/constants.py,2,1
+/greenbird/piri/blob/master/piri/mapper.py,2,1
+/greenbird/piri/tree/master/docs,2,1
+/greenbird/piri/tree/master/docs/usecases,2,1
+/greenbird/piri/blob/de8ed240492d836305c94decbede3933ea982db0/piri/collection_handlers.py,1,1
