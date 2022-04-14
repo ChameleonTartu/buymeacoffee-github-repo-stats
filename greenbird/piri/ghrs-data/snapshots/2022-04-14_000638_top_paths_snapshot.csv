@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,25,16
+/greenbird/piri/issues,5,4
+/greenbird/piri/issues/137,3,2
+/greenbird/piri/blob/master/docs/introduction.md,3,1
+/greenbird/piri/tree/master/piri,2,2
+/greenbird/piri/tree/master/docs,2,1
+/greenbird/piri/blob/master/docs/configuration.md,1,1
+/greenbird/piri/blob/master/docs/usage.md,1,1
+/greenbird/piri/blob/master/piri/schema.py,1,1
+/greenbird/piri/blob/master/rtd_requirements.txt,1,1
