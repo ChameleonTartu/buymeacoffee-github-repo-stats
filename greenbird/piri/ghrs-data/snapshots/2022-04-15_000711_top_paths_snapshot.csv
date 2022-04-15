@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,21,15
+/greenbird/piri/issues,6,5
+/greenbird/piri/issues/137,3,2
+/greenbird/piri/blob/master/docs/introduction.md,3,1
+/greenbird/piri/tree/master/docs,2,1
+/greenbird/piri/blob/master/docs/configuration.md,1,1
+/greenbird/piri/blob/master/docs/usage.md,1,1
+/greenbird/piri/blob/master/rtd_requirements.txt,1,1
+/greenbird/piri/blob/master/setup.cfg,1,1
+/greenbird/piri/issues/132,1,1
