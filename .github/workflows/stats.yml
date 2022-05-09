@@ -407,3 +407,14 @@ jobs:
           repository: greenbird/p360-contact-manager
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j41:
+    name: spring-boot-api-rate-limiting
+    runs-on: ubuntu-latest
+    steps:
+      - name: gb-demo-bot
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu/spring-boot-api-rate-limiting
+
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: master
