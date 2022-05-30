@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven
-% Generated for [ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven](https://github.com/ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-05-30 00:07 UTC.
+% Generated for [ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven](https://github.com/ChameleonTartu/amazon-mws-fulfillment-outbound-shipment-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-05-30 23:07 UTC.
 
 
 ## Views
