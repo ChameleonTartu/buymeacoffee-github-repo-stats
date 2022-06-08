@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,13,7
+/greenbird/piri/tree/master/tests,4,2
+/greenbird/piri/issues,3,1
+/greenbird/piri/tree/master/tests/collection_handlers,2,1
+/greenbird/piri/tree/master/tests/json,2,1
+/greenbird/piri/blob/master/tests/casting/test_cast_to_date.py,1,1
+/greenbird/piri/blob/master/tests/collection_handlers/test_fetch_data_by_keys.py,1,1
+/greenbird/piri/blob/master/tests/collection_handlers/test_set_value_in_dict.py,1,1
+/greenbird/piri/blob/master/tests/json/config_regexp.json,1,1
+/greenbird/piri/blob/master/tests/test_mapper.py,1,1
