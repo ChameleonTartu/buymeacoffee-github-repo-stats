@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-11 23:23 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-11 23:34 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `Bing`, 09: `statics.teams.cdn.office.net`, 10: `web.flock.com`, 11: `StartPage`, 12: `engine.presearch.org`, 13: `pydigger.com`, 14: `Baidu`, 15: `opensourcelibs.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `web.flock.com`, 09: `Bing`, 10: `l.messenger.com`, 11: `Baidu`, 12: `pydigger.com`, 13: `statics.teams.cdn.office.net`, 14: `opensourcelibs.com`, 15: `StartPage`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/tree/master/tests`, 10: `/issues/136`, 11: `/blob/master/LICENSE`, 12: `/pull/94`, 13: `/blob/master/piri/process.py`, 14: `/pull/140`, 15: `/tags`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/blob/master/piri/mapper.py`, 10: `/pull/94`, 11: `/tags`, 12: `/tree/master/tests`, 13: `/issues/136`, 14: `/blob/master/piri/process.py`, 15: `/issues/135`
 
 
 <script type="text/javascript">
