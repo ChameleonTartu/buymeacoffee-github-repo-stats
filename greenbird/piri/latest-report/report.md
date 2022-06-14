@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-14 00:11 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-14 00:38 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `statics.teams.cdn.office.net`, 09: `engine.presearch.org`, 10: `Baidu`, 11: `web.flock.com`, 12: `l.messenger.com`, 13: `pydigger.com`, 14: `opensourcelibs.com`, 15: `StartPage`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `StartPage`, 09: `opensourcelibs.com`, 10: `Baidu`, 11: `l.messenger.com`, 12: `engine.presearch.org`, 13: `pydigger.com`, 14: `Bing`, 15: `statics.teams.cdn.office.net`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/issues/113`, 08: `/tree/master/docs`, 09: `/issues/135`, 10: `/blob/master/LICENSE`, 11: `/blob/master/piri/mapper.py`, 12: `/blob/master/piri/process.py`, 13: `/pull/140`, 14: `/pull/94`, 15: `/tree/master/tests`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/issues/113`, 08: `/tree/master/docs`, 09: `/blob/master/piri/process.py`, 10: `/blob/master/piri/mapper.py`, 11: `/issues/135`, 12: `/tags`, 13: `/pull/140`, 14: `/issues/136`, 15: `/blob/master/LICENSE`
 
 
 <script type="text/javascript">
