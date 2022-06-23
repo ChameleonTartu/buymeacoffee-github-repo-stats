@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri-web
-% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-23 23:13 UTC.
+% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-06-23 23:24 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `shell.cloud.google.com`, 07: `githubhelp.com`, 08: `suche.t-online.de`, 09: `pypi.org`, 10: `kandi.openweaver.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `shell.cloud.google.com`, 07: `githubhelp.com`, 08: `kandi.openweaver.com`, 09: `suche.t-online.de`, 10: `pypi.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/tree/master/docs`, 04: `/blob/master/docs/index.md`, 05: `/blob/master/piri_web/app.py`, 06: `/blob/master/README.md`, 07: `/issues`, 08: `/blob/master/docs/changelog.md`, 09: `/blob/master/piri_web/__init__.py`, 10: `/tree/master/tests`, 11: `/blob/master/requirements.txt`, 12: `/pulls`, 13: `/blob/master/mkdocs.yml`, 14: `/blob/master/LICENSE`, 15: `/actions`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/tree/master/docs`, 04: `/blob/master/docs/index.md`, 05: `/blob/master/piri_web/app.py`, 06: `/blob/master/README.md`, 07: `/issues`, 08: `/blob/master/docs/changelog.md`, 09: `/blob/master/requirements.txt`, 10: `/blob/master/LICENSE`, 11: `/blob/master/piri_web/__init__.py`, 12: `/tree/master/.github/workflows`, 13: `/blob/master/pyproject.toml`, 14: `/pulls`, 15: `/actions`
 
 
 <script type="text/javascript">
