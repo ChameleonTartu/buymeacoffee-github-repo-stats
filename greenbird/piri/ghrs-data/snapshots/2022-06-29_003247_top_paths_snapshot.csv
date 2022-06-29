@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,27,14
+/greenbird/piri/issues,8,5
+/greenbird/piri/search,3,1
+/greenbird/piri/commits/master,2,1
+/greenbird/piri/blob/de8ed240492d836305c94decbede3933ea982db0/tests/schema/conftest.py,1,1
+/greenbird/piri/blob/master/piri/schema.json,1,1
+/greenbird/piri/commit/7a2b712b246b78a2c81ec0242b11b8042ed01a03,1,1
+/greenbird/piri/issues/110,1,1
+/greenbird/piri/issues/132,1,1
+/greenbird/piri/tree/master/piri,1,1
