@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/railway-oriented-programming-presentation
-% Generated for [ChameleonTartu/railway-oriented-programming-presentation](https://github.com/ChameleonTartu/railway-oriented-programming-presentation) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-02 23:30 UTC.
+% Generated for [ChameleonTartu/railway-oriented-programming-presentation](https://github.com/ChameleonTartu/railway-oriented-programming-presentation) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-02 23:38 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `Google`, 03: `github.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/master/README.md`, 02: `/`, 03: `/blob/master/src/main/kotlin/no/example/service/throwexceptionsfunctions/DownloadPage.kt`, 04: `/blob/master/src/main/kotlin/no/example/service/singletrackfunctions/ComplexNumber.kt`, 05: `/blob/master/src/main/kotlin/no/example/service/deadendfunctions/HtmlParserResult.kt`, 06: `/blob/master/src/main/kotlin/no/example/service/singletrackfunctions/ComplexNumberResult.kt`, 07: `/blob/master/src/main/kotlin/no/example/service/supervisoryfunctions/SentryLogin.kt`, 08: `/blob/master/src/main/kotlin/no/example/Application.kt`, 09: `/blob/master/src/main/kotlin/no/example/service/deadendfunctions/HtmlParser.kt`, 10: `/blob/master/src/main/kotlin/no/example/service/supervisoryfunctions/SentryLoginResult.kt`, 11: `/blob/master/src/main/kotlin/no/example/service/throwexceptionsfunctions/Page.kt`, 12: `/tree/master/src/main/kotlin/no/example`, 13: `/tree/master/src/main/kotlin/no/example/service`, 14: `/tree/master/src/main/kotlin/no/example/service/throwexceptionsfunctions`, 15: `/tree/master/src`
+Top 15 paths: 01: `/blob/master/README.md`, 02: `/`, 03: `/blob/master/src/main/kotlin/no/example/service/throwexceptionsfunctions/DownloadPage.kt`, 04: `/blob/master/src/main/kotlin/no/example/service/singletrackfunctions/ComplexNumber.kt`, 05: `/blob/master/src/main/kotlin/no/example/service/deadendfunctions/HtmlParserResult.kt`, 06: `/blob/master/src/main/kotlin/no/example/service/singletrackfunctions/ComplexNumberResult.kt`, 07: `/blob/master/src/main/kotlin/no/example/service/supervisoryfunctions/SentryLogin.kt`, 08: `/blob/master/src/main/kotlin/no/example/Application.kt`, 09: `/blob/master/src/main/kotlin/no/example/service/supervisoryfunctions/SentryLoginResult.kt`, 10: `/blob/master/src/main/kotlin/no/example/service/deadendfunctions/HtmlParser.kt`, 11: `/blob/master/src/main/kotlin/no/example/service/throwexceptionsfunctions/Page.kt`, 12: `/tree/master/src/main/kotlin/no/example`, 13: `/tree/master/src/main/kotlin/no/example/service/deadendfunctions`, 14: `/tree/master/src/main/kotlin/no/example/service/throwexceptionsfunctions`, 15: `/tree/master/src/main/kotlin/no/example/service`
 
 
 <script type="text/javascript">
