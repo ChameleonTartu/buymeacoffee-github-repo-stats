@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-07 00:06 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-07 00:18 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `Google`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `pydigger.com`, 09: `Bing`, 10: `web.flock.com`, 11: `Baidu`, 12: `StartPage`, 13: `engine.presearch.org`, 14: `statics.teams.cdn.office.net`, 15: `l.messenger.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `Google`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `web.flock.com`, 09: `l.messenger.com`, 10: `opensourcelibs.com`, 11: `Baidu`, 12: `statics.teams.cdn.office.net`, 13: `engine.presearch.org`, 14: `pydigger.com`, 15: `Bing`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri`, 03: `/issues`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/tree/master/tests`, 10: `/issues/136`, 11: `/pull/94`, 12: `/pull/140`, 13: `/blob/master/piri/process.py`, 14: `/blob/master/piri/mapper.py`, 15: `/tags`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri`, 03: `/issues`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/issues/135`, 10: `/blob/master/piri/process.py`, 11: `/tags`, 12: `/blob/master/piri/mapper.py`, 13: `/blob/master/LICENSE`, 14: `/issues/136`, 15: `/tree/master/tests`
 
 
 <script type="text/javascript">
