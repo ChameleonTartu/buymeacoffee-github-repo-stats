@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-09 00:08 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-09 00:18 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `engine.presearch.org`, 09: `l.messenger.com`, 10: `opensourcelibs.com`, 11: `Bing`, 12: `pydigger.com`, 13: `Baidu`, 14: `StartPage`, 15: `web.flock.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `Bing`, 09: `StartPage`, 10: `Baidu`, 11: `statics.teams.cdn.office.net`, 12: `pydigger.com`, 13: `opensourcelibs.com`, 14: `web.flock.com`, 15: `l.messenger.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/tree/master/docs`, 08: `/issues/113`, 09: `/issues/136`, 10: `/issues/135`, 11: `/blob/master/piri/process.py`, 12: `/tags`, 13: `/blob/master/LICENSE`, 14: `/pull/140`, 15: `/pull/94`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/tree/master/docs`, 08: `/issues/113`, 09: `/blob/master/LICENSE`, 10: `/blob/master/piri/mapper.py`, 11: `/blob/master/piri/process.py`, 12: `/pull/94`, 13: `/issues/136`, 14: `/issues/135`, 15: `/tags`
 
 
 <script type="text/javascript">
