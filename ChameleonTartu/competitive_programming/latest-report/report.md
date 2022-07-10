@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/competitive_programming
-% Generated for [ChameleonTartu/competitive_programming](https://github.com/ChameleonTartu/competitive_programming) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-10 00:12 UTC.
+% Generated for [ChameleonTartu/competitive_programming](https://github.com/ChameleonTartu/competitive_programming) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-10 23:12 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `github.com`, 02: `giters.com`, 03: `520liyan.xyz`, 04: `g
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/eOlymp/DepthFirstSearch`, 03: `/tree/master/Timus`, 04: `/tree/master/Timus/C%2B%2B`, 05: `/tree/master/Codeforces`, 06: `/blob/master/eOlymp/DepthFirstSearch/.A.cpp.swp`, 07: `/blob/master/eOlymp/DepthFirstSearch/A.cpp`, 08: `/tree/master/eOlymp`, 09: `/tree/master/HackerRank`, 10: `/tree/master/HackerRank/Java/JavaStdinAndStdout2`, 11: `/blob/master/README.md`, 12: `/issues`, 13: `/blob/master/eOlymp/DepthFirstSearch/a.out`, 14: `/tree/master/HackerRank/Java`, 15: `/find/master`
+Top 15 paths: 01: `/`, 02: `/tree/master/eOlymp/DepthFirstSearch`, 03: `/tree/master/Timus`, 04: `/tree/master/Timus/C%2B%2B`, 05: `/tree/master/Codeforces`, 06: `/blob/master/eOlymp/DepthFirstSearch/.A.cpp.swp`, 07: `/blob/master/eOlymp/DepthFirstSearch/A.cpp`, 08: `/tree/master/HackerRank`, 09: `/tree/master/eOlymp`, 10: `/commits/master/Timus`, 11: `/blob/master/Timus/C%2B%2B/Timus1493.cpp`, 12: `/tree/master/HackerRank/Ruby`, 13: `/issues`, 14: `/blob/master/eOlymp/DepthFirstSearch/a.out`, 15: `/blob/master/README.md`
 
 
 <script type="text/javascript">
