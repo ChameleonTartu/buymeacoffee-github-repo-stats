@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-18 23:26 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-18 23:37 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `Bing`, 09: `opensourcelibs.com`, 10: `StartPage`, 11: `pydigger.com`, 12: `Baidu`, 13: `l.messenger.com`, 14: `engine.presearch.org`, 15: `web.flock.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `l.messenger.com`, 09: `Baidu`, 10: `statics.teams.cdn.office.net`, 11: `pydigger.com`, 12: `web.flock.com`, 13: `Bing`, 14: `StartPage`, 15: `engine.presearch.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/issues/113`, 08: `/tree/master/docs`, 09: `/tags`, 10: `/blob/master/piri/process.py`, 11: `/blob/master/piri/mapper.py`, 12: `/issues/136`, 13: `/issues/135`, 14: `/pull/140`, 15: `/tree/master/tests`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/139`, 07: `/issues/113`, 08: `/tree/master/docs`, 09: `/blob/master/piri/process.py`, 10: `/blob/master/piri/mapper.py`, 11: `/pull/94`, 12: `/issues/136`, 13: `/tree/master/tests`, 14: `/issues/135`, 15: `/blob/master/LICENSE`
 
 
 <script type="text/javascript">
