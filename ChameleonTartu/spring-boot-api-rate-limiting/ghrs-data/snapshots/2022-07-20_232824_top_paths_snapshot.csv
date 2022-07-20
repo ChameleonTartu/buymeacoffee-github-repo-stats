@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/spring-boot-api-rate-limiting,4,1
+/ChameleonTartu/spring-boot-api-rate-limiting/blob/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/interceptors/CustomRestAnnotationInterceptor.kt,2,1
+/ChameleonTartu/spring-boot-api-rate-limiting/tree/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/interceptors,2,1
+/ChameleonTartu/spring-boot-api-rate-limiting/blob/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/annotations/ApiRateLimit.kt,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/blob/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/ApiRateLimitSpringApplication.kt,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/blob/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/config/WebConfig.kt,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/blob/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring/controller/ApiController.kt,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/tree/main/src,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/tree/main/src/main,1,1
+/ChameleonTartu/spring-boot-api-rate-limiting/tree/main/src/main/kotlin/io/github/chameleontartu/apiratelimitspring,1,1
