@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-24 23:40 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-24 23:51 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 09: `/blob/master/Dockerfile`, 10: `/tree/master/src`, 11: `/tree/master/src/main/resources/img`, 12: `/tree/master/src/main`, 13: `/blob/f5521cf6802f597642bb107f8369c23e0bc1a207/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 14: `/tree/f5521cf6802f597642bb107f8369c23e0bc1a207/src/main/kotlin/com/example/gbdemobot`, 15: `/commit/17d4f60fb19325ef154efa4fd1dd32921f4bf379`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 09: `/blob/master/Dockerfile`, 10: `/tree/master/src/main/resources/img`, 11: `/tree/master/src`, 12: `/tree/master/src/main`, 13: `/stargazers`, 14: `/blob/master/src/main/resources/img/thorsten.jpeg`, 15: `/actions/runs/806417114`
 
 
 <script type="text/javascript">
