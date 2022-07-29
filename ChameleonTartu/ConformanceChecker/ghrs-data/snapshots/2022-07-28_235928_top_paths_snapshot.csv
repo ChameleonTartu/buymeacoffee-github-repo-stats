@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/ConformanceChecker/tree/master/src/mypackage,16,2
+/ChameleonTartu/ConformanceChecker/tree/master/src,6,2
+/ChameleonTartu/ConformanceChecker,4,1
+/ChameleonTartu/ConformanceChecker/blob/master/src/mypackage/Log.java,3,1
+/ChameleonTartu/ConformanceChecker/blob/master/src/mypackage/PnmlImportUtils.java,2,2
+/ChameleonTartu/ConformanceChecker/blob/master/src/mypackage/XLogReader.java,2,2
+/ChameleonTartu/ConformanceChecker/blob/master/src/mypackage/Controller.java,2,1
+/ChameleonTartu/ConformanceChecker/blob/master/src/Boundary.java.bak,1,1
+/ChameleonTartu/ConformanceChecker/blob/master/src/Event.java.bak,1,1
+/ChameleonTartu/ConformanceChecker/blob/master/src/mypackage/EntityManager.java,1,1
