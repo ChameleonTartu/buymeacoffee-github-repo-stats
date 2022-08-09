@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-09 23:26 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-09 23:41 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `pydigger.com`, 09: `opensourcelibs.com`, 10: `engine.presearch.org`, 11: `StartPage`, 12: `statics.teams.cdn.office.net`, 13: `Baidu`, 14: `l.messenger.com`, 15: `web.flock.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri.readthedocs.io`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `Bing`, 10: `statics.teams.cdn.office.net`, 11: `pydigger.com`, 12: `opensourcelibs.com`, 13: `web.flock.com`, 14: `engine.presearch.org`, 15: `l.messenger.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`, 04: `piri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri`, 03: `/issues`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/tree/master/tests`, 10: `/tags`, 11: `/issues/136`, 12: `/blob/master/piri/process.py`, 13: `/pull/140`, 14: `/blob/master/piri/mapper.py`, 15: `/issues/135`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri`, 03: `/issues`, 04: `/pulls`, 05: `/issues/137`, 06: `/issues/113`, 07: `/tree/master/docs`, 08: `/issues/139`, 09: `/blob/master/LICENSE`, 10: `/tags`, 11: `/issues/136`, 12: `/tree/master/tests`, 13: `/pull/140`, 14: `/issues/135`, 15: `/blob/master/piri/mapper.py`
 
 
 <script type="text/javascript">
