@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-14 00:01 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-14 00:13 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main/resources/img`, 10: `/blob/master/Dockerfile`, 11: `/tree/master/src/main`, 12: `/tree/master/src`, 13: `/stargazers`, 14: `/blob/master/README.md`, 15: `/actions/runs/809322269`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main/resources/img`, 10: `/tree/master/src`, 11: `/blob/master/Dockerfile`, 12: `/tree/master/src/main`, 13: `/fork`, 14: `/find/master`, 15: `/commit/f5521cf6802f597642bb107f8369c23e0bc1a207`
 
 
 <script type="text/javascript">
