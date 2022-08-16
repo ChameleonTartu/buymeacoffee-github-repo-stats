@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri-web
-% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-16 00:15 UTC.
+% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-16 00:27 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `shell.cloud.google.com`, 07: `kandi.openweaver.com`, 08: `suche.t-online.de`, 09: `pypi.org`, 10: `githubhelp.com`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `shell.cloud.google.com`, 07: `kandi.openweaver.com`, 08: `pypi.org`, 09: `suche.t-online.de`, 10: `githubhelp.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/tree/master/docs`, 04: `/blob/master/docs/index.md`, 05: `/issues`, 06: `/blob/master/README.md`, 07: `/blob/master/piri_web/app.py`, 08: `/blob/master/docs/changelog.md`, 09: `/pulls`, 10: `/tree/master/.github/workflows`, 11: `/blob/master/pyproject.toml`, 12: `/blob/master/mkdocs.yml`, 13: `/tree/master/tests`, 14: `/blob/master/LICENSE`, 15: `/actions`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/tree/master/docs`, 04: `/blob/master/docs/index.md`, 05: `/issues`, 06: `/blob/master/README.md`, 07: `/blob/master/piri_web/app.py`, 08: `/blob/master/docs/changelog.md`, 09: `/tree/master/.github/workflows`, 10: `/blob/master/LICENSE`, 11: `/blob/master/requirements.txt`, 12: `/blob/master/piri_web/__init__.py`, 13: `/pulls`, 14: `/actions`, 15: `/tree/master/tests`
 
 
 <script type="text/javascript">
