@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri
-% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-21 23:27 UTC.
+% Generated for [greenbird/piri](https://github.com/greenbird/piri) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-21 23:39 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `Google`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `web.flock.com`, 09: `getpocket.com`, 10: `engine.presearch.org`, 11: `Baidu`, 12: `StartPage`, 13: `l.messenger.com`, 14: `opensourcelibs.com`, 15: `statics.teams.cdn.office.net`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `Google`, 05: `greenbird.github.io`, 06: `pypi.org`, 07: `DuckDuckGo`, 08: `Baidu`, 09: `l.messenger.com`, 10: `statics.teams.cdn.office.net`, 11: `engine.presearch.org`, 12: `StartPage`, 13: `web.flock.com`, 14: `Bing`, 15: `opensourcelibs.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/tree/master/docs`, 07: `/issues/139`, 08: `/issues/113`, 09: `/tags`, 10: `/issues/136`, 11: `/pull/140`, 12: `/blob/master/LICENSE`, 13: `/tree/master/tests`, 14: `/blob/master/piri/process.py`, 15: `/pull/94`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/tree/master/piri`, 04: `/issues/137`, 05: `/pulls`, 06: `/tree/master/docs`, 07: `/issues/139`, 08: `/issues/113`, 09: `/tags`, 10: `/blob/master/LICENSE`, 11: `/issues/136`, 12: `/pull/140`, 13: `/blob/master/piri/process.py`, 14: `/pull/94`, 15: `/issues/135`
 
 
 <script type="text/javascript">
