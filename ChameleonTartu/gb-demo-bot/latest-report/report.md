@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-23 00:03 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-08-23 00:15 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/pom.xml`, 05: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 09: `/tree/master/src/main`, 10: `/tree/master/src/main/resources/img`, 11: `/tree/master/src`, 12: `/blob/master/Dockerfile`, 13: `/blob/f5521cf6802f597642bb107f8369c23e0bc1a207/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 14: `/blob/master/src/main/resources/img/thorsten.jpeg`, 15: `/actions/runs/806758255`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/pom.xml`, 05: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 09: `/blob/master/Dockerfile`, 10: `/tree/master/src/main/resources/img`, 11: `/tree/master/src`, 12: `/tree/master/src/main`, 13: `/actions/runs/806758255`, 14: `/search`, 15: `/blob/master/.gitignore`
 
 
 <script type="text/javascript">
