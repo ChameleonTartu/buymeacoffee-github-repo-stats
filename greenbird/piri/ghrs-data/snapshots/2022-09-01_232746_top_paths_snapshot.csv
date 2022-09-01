@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,26,14
+/greenbird/piri/tree/master/piri,7,4
+/greenbird/piri/blob/master/piri/mapper.py,3,3
+/greenbird/piri/pulls,3,3
+/greenbird/piri/issues,3,2
+/greenbird/piri/blob/master/pyproject.toml,2,2
+/greenbird/piri/tree/master/docs/usecases,2,1
+/greenbird/piri/tree/master/tests,2,1
+/greenbird/piri/blob/master/docs/javascripts/swagger-ui-bundle.js,1,1
+/greenbird/piri/blob/master/docs/usecases/usecases.md,1,1
