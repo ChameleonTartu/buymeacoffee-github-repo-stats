@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri-cli
-% Generated for [greenbird/piri-cli](https://github.com/greenbird/piri-cli) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-02 00:06 UTC.
+% Generated for [greenbird/piri-cli](https://github.com/greenbird/piri-cli) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-02 00:23 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri_cli`, 03: `/blob/master/piri_cli/cli.py`, 04: `/issues`, 05: `/tree/master/tests`, 06: `/issues/11`, 07: `/blob/master/config.json`, 08: `/blob/master/input.json`, 09: `/releases/tag/2.1.0`, 10: `/graphs/contributors`, 11: `/blob/master/poetry.lock`, 12: `/blob/master/tests/files/good_config.json`, 13: `/issues/new`, 14: `/blob/master/tests/files/input.json`, 15: `/commit/a6c3db4ad56d6359f5949aeea2b203895a4a5da8`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri_cli`, 03: `/blob/master/piri_cli/cli.py`, 04: `/issues`, 05: `/tree/master/tests`, 06: `/issues/11`, 07: `/blob/master/config.json`, 08: `/blob/master/input.json`, 09: `/blob/master/tests/files/input.json`, 10: `/stargazers`, 11: `/graphs/traffic`, 12: `/blob/master/tests/files/good_config.json`, 13: `/commit/a6c3db4ad56d6359f5949aeea2b203895a4a5da8`, 14: `/commits`, 15: `/graphs/contributors`
 
 
 <script type="text/javascript">
