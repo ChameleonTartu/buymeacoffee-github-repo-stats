@@ -418,3 +418,15 @@ jobs:
 
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
+  j42:
+    name: diagram-as-a-code-examples
+    runs-on: ubuntu-latest
+    steps:
+      - name: diagram-as-a-code-examples
+        uses: jgehrcke/github-repo-stats@HEAD
+        with:
+          repository: ChameleonTartu//diagram-as-a-code-examples
+
+          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
+          databranch: main
+          
