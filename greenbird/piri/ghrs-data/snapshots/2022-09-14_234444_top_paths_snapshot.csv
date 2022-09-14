@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,53,22
+/greenbird/piri/tree/master/piri,8,3
+/greenbird/piri/blob/master/piri/schema.py,5,1
+/greenbird/piri/blob/master/piri/process.py,3,2
+/greenbird/piri/issues,3,2
+/greenbird/piri/blob/master/piri/mapper.py,2,2
+/greenbird/piri/blob/master/CONTRIBUTING.md,2,1
+/greenbird/piri/blob/de8ed240492d836305c94decbede3933ea982db0/tests/schema/conftest.py,1,1
+/greenbird/piri/blob/master/.github/workflows/test.yml,1,1
+/greenbird/piri/blob/master/LICENSE,1,1
