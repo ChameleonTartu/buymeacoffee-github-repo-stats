@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri-web,33,13
+/greenbird/piri-web/tree/master/piri_web,9,4
+/greenbird/piri-web/blob/master/piri_web/app.py,7,4
+/greenbird/piri-web/tree/master/tests,5,2
+/greenbird/piri-web/issues,4,2
+/greenbird/piri-web/tree/master/docs,4,2
+/greenbird/piri-web/blob/master/docs/index.md,3,2
+/greenbird/piri-web/tree/gcp,3,1
+/greenbird/piri-web/blob/master/piri_web/__init__.py,2,2
+/greenbird/piri-web/blob/gcp/Dockerfile,2,1
