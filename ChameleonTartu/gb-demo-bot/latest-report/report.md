@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-22 23:33 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-22 23:43 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/blob/master/Dockerfile`, 10: `/tree/master/src/main/resources/img`, 11: `/tree/master/src/main/kotlin/com/example`, 12: `/tree/master/src/main`, 13: `/tree/master/src`, 14: `/commit/17d4f60fb19325ef154efa4fd1dd32921f4bf379`, 15: `/actions/runs/809322269`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main`, 10: `/tree/master/src/main/kotlin/com/example`, 11: `/tree/master/src`, 12: `/blob/master/Dockerfile`, 13: `/tree/master/src/main/resources/img`, 14: `/blob/master/README.md`, 15: `/fork`
 
 
 <script type="text/javascript">
