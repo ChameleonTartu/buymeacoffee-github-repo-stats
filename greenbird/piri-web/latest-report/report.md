@@ -1,5 +1,5 @@
 % Statistics for greenbird/piri-web
-% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-25 23:27 UTC.
+% Generated for [greenbird/piri-web](https://github.com/greenbird/piri-web) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-09-25 23:41 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `pypi.org`, 07: `kandi.openweaver.com`, 08: `openbase.com`, 09: `githubhelp.com`, 10: `shell.cloud.google.com`, 11: `suche.t-online.de`
+Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.io`, 04: `greenbird.github.io`, 05: `Google`, 06: `pypi.org`, 07: `kandi.openweaver.com`, 08: `suche.t-online.de`, 09: `openbase.com`, 10: `githubhelp.com`, 11: `shell.cloud.google.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `piri.readthedocs.i
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/blob/master/piri_web/app.py`, 04: `/tree/master/docs`, 05: `/blob/master/docs/index.md`, 06: `/blob/master/README.md`, 07: `/issues`, 08: `/blob/master/docs/changelog.md`, 09: `/issues/5`, 10: `/blob/master/pyproject.toml`, 11: `/blob/master/piri_web/__init__.py`, 12: `/tree/master/tests`, 13: `/pulls`, 14: `/blob/master/LICENSE`, 15: `/blob/master/requirements.txt`
+Top 15 paths: 01: `/`, 02: `/tree/master/piri_web`, 03: `/blob/master/piri_web/app.py`, 04: `/tree/master/docs`, 05: `/blob/master/docs/index.md`, 06: `/blob/master/README.md`, 07: `/issues`, 08: `/blob/master/docs/changelog.md`, 09: `/actions`, 10: `/tree/master/.github/workflows`, 11: `/blob/master/mkdocs.yml`, 12: `/issues/5`, 13: `/tree/master/tests`, 14: `/pulls`, 15: `/blob/master/LICENSE`
 
 
 <script type="text/javascript">
