@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-10-04 23:44 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-10-04 23:58 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main/kotlin/com/example`, 10: `/tree/master/src/main/resources/img`, 11: `/blob/master/Dockerfile`, 12: `/tree/master/src`, 13: `/tree/master/src/main`, 14: `/search`, 15: `/find/master`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 07: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main`, 10: `/blob/master/Dockerfile`, 11: `/tree/master/src/main/kotlin/com/example`, 12: `/tree/master/src/main/resources/img`, 13: `/tree/master/src`, 14: `/blob/master/.gitignore`, 15: `/fork`
 
 
 <script type="text/javascript">
