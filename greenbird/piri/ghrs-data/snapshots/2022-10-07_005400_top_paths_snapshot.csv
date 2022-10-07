@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/greenbird/piri,17,10
+/greenbird/piri/issues/139,4,3
+/greenbird/piri/blob/master/piri/process.py,3,1
+/greenbird/piri/blob/master/piri/schema.py,2,1
+/greenbird/piri/tree/master/piri,2,1
+/greenbird/piri/blob/master/piri/schema.json,1,1
+/greenbird/piri/blob/master/poetry.lock,1,1
+/greenbird/piri/blob/master/pyproject.toml,1,1
+/greenbird/piri/blob/master/setup.cfg,1,1
+/greenbird/piri/issues,1,1
