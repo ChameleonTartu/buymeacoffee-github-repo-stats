@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/amazon-mws-reports-maven
-% Generated for [ChameleonTartu/amazon-mws-reports-maven](https://github.com/ChameleonTartu/amazon-mws-reports-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-03 23:23 UTC.
+% Generated for [ChameleonTartu/amazon-mws-reports-maven](https://github.com/ChameleonTartu/amazon-mws-reports-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-03 23:46 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `search.maven.org`, 04: `s
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/master/.github/workflows/deploy.yml`, 02: `/`, 03: `/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebServiceClient.java`, 04: `/tree/master/.github/workflows`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/java/com/amazonaws/mws`, 07: `/tree/master/src`, 08: `/stargazers`, 09: `/actions/runs/1677958465/jobs/2278991146`, 10: `/commits/master`, 11: `/tree/master/.github`, 12: `/actions/runs/1677958465`, 13: `/issues/6`, 14: `/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebService.java`, 15: `/tags`
+Top 15 paths: 01: `/blob/master/.github/workflows/deploy.yml`, 02: `/`, 03: `/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebServiceClient.java`, 04: `/tree/master/.github/workflows`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/java/com/amazonaws/mws`, 07: `/tree/master/src`, 08: `/commits/master`, 09: `/issues/6`, 10: `/actions/runs/181171385`, 11: `/tags`, 12: `/actions/runs/1677958465/jobs/2278991146`, 13: `/blob/master/.github/workflows/windows.yml`, 14: `/blob/master/src/main/java/com/amazonaws/mws/MarketplaceWebService.java`, 15: `/actions/runs/1677958465`
 
 
 <script type="text/javascript">
