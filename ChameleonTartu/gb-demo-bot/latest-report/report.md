@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-24 23:18 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-24 23:39 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src`, 10: `/blob/master/Dockerfile`, 11: `/tree/master/src/main`, 12: `/tree/master/src/main/kotlin/com/example`, 13: `/tree/master/src/main/resources/img`, 14: `/actions/runs/809322269`, 15: `/tree/master/src/main/kotlin`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 09: `/tree/master/src/main/resources/img`, 10: `/tree/master/src`, 11: `/blob/master/Dockerfile`, 12: `/tree/master/src/main`, 13: `/tree/master/src/main/kotlin/com/example`, 14: `/find/master`, 15: `/actions/runs/806750655`
 
 
 <script type="text/javascript">
