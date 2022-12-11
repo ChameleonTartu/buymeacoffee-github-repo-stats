@@ -367,16 +367,6 @@ jobs:
           repository: thomasborgen/storage-bucket
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: master
-  j40:
-    name: p360-contact-manager
-    runs-on: ubuntu-latest
-    steps:
-      - name: gb-demo-bot
-        uses: jgehrcke/github-repo-stats@HEAD
-        with:
-          repository: greenbird/p360-contact-manager
-          ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
-          databranch: master
   j41:
     name: spring-boot-api-rate-limiting
     runs-on: ubuntu-latest
