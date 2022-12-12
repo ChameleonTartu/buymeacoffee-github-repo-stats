@@ -386,7 +386,6 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: ChameleonTartu/diagram-as-a-code-examples
-
           ghtoken: ${{ secrets.ACCESS_GITHUB_API_TOKEN }}
           databranch: main
           
