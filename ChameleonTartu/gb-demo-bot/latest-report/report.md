@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-17 23:18 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-17 23:32 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 09: `/tree/master/src`, 10: `/tree/master/src/main/kotlin/com/example`, 11: `/tree/master/src/main`, 12: `/tree/master/src/main/resources/img`, 13: `/blob/master/Dockerfile`, 14: `/pulls`, 15: `/tree/master/src/main/kotlin`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 05: `/blob/master/pom.xml`, 06: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 09: `/tree/master/src/main`, 10: `/tree/master/src/main/kotlin/com/example`, 11: `/tree/master/src`, 12: `/tree/master/src/main/resources/img`, 13: `/blob/master/Dockerfile`, 14: `/find/master`, 15: `/blob/master/src/main/resources/img/thorsten.jpeg`
 
 
 <script type="text/javascript">
