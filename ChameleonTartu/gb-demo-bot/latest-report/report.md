@@ -1,5 +1,5 @@
 % Statistics for ChameleonTartu/gb-demo-bot
-% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-30 00:20 UTC.
+% Generated for [ChameleonTartu/gb-demo-bot](https://github.com/ChameleonTartu/gb-demo-bot) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-30 00:35 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `greenbird.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/pom.xml`, 05: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 09: `/tree/master/src/main/resources/img`, 10: `/tree/master/src/main`, 11: `/tree/master/src`, 12: `/blob/master/Dockerfile`, 13: `/tree/master/src/main/kotlin/com/example`, 14: `/actions`, 15: `/blob/master/README.md`
+Top 15 paths: 01: `/`, 02: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots`, 03: `/tree/master/src/main/kotlin/com/example/gbdemobot`, 04: `/blob/master/pom.xml`, 05: `/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors`, 06: `/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt`, 07: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt`, 08: `/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt`, 09: `/tree/master/src/main/kotlin/com/example`, 10: `/tree/master/src`, 11: `/tree/master/src/main`, 12: `/tree/master/src/main/resources/img`, 13: `/blob/master/Dockerfile`, 14: `/tree/master/src/main/kotlin/com`, 15: `/tree/f5521cf6802f597642bb107f8369c23e0bc1a207/src/main/kotlin/com/example/gbdemobot`
 
 
 <script type="text/javascript">
