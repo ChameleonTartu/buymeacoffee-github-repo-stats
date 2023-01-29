@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ChameleonTartu/gb-demo-bot,11,7
+/ChameleonTartu/gb-demo-bot/tree/master/src/main/kotlin/com/example/gbdemobot,6,3
+/ChameleonTartu/gb-demo-bot/tree/master/src/main/kotlin/com/example/gbdemobot/bots,5,3
+/ChameleonTartu/gb-demo-bot/tree/master/src/main/kotlin/com/example/gbdemobot/bots/processors,4,3
+/ChameleonTartu/gb-demo-bot/blob/master/src/main/kotlin/com/example/gbdemobot/Application.kt,3,3
+/ChameleonTartu/gb-demo-bot/blob/master/src/main/kotlin/com/example/gbdemobot/bots/GbBot.kt,3,2
+/ChameleonTartu/gb-demo-bot/blob/master/README.md,3,1
+/ChameleonTartu/gb-demo-bot/blob/master/src/main/kotlin/com/example/gbdemobot/bots/processors/GbProcessor.kt,2,2
+/ChameleonTartu/gb-demo-bot/blob/master/.gitignore,2,1
+/ChameleonTartu/gb-demo-bot/tree/master/src/main/kotlin/com/example,2,1
